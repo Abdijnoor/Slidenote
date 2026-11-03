@@ -73,7 +73,9 @@
 </p>
 
 <p align="center">
-  <img src="images/settings.jpg" width="400" alt="Slidenote Settings in Liquid Glass over a blue wallpaper">
+  <img src="images/settings.jpg" height="440" alt="Slidenote Settings in Liquid Glass over a blue wallpaper">
+  &nbsp;
+  <img src="images/dark-notes.png" height="440" alt="Notes in dark mode">
 </p>
 
 <br>

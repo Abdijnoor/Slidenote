@@ -92,3 +92,11 @@
 <p align="center">
   <b>⌃⌥S</b> Show your notes &nbsp;·&nbsp; <b>⌃⌥N</b> New note, from any app
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Abdijnoor/Sparrow-Perch/releases/latest/download/Sparrow-Perch.dmg">
+    <img src="images/download-button.svg" width="300" alt="Download for Mac">
+  </a>
+</p>

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/icon.png" width="112" alt="Sparrow Perch icon">
+  <img src="images/icon.png" width="112" alt="Slidenote icon">
 </p>
 
-<h1 align="center">Sparrow Perch</h1>
+<h1 align="center">Slidenote</h1>
 
 <h3 align="center">Notes that wait at the edge.</h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdijnoor/Sparrow-Perch/releases/latest/download/Sparrow-Perch.dmg">
+  <a href="https://github.com/Abdijnoor/Slidenote/releases/latest/download/Slidenote.dmg">
     <img src="images/download-button.svg" width="300" alt="Download for Mac">
   </a>
 </p>
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="images/mockup.png" width="820" alt="Sparrow Perch open at the left edge of a MacBook Pro screen">
+  <img src="images/mockup.png" width="820" alt="Slidenote open at the left edge of a MacBook Pro screen">
 </p>
 
 <br>
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="images/settings.jpg" width="620" alt="Sparrow Perch Settings in Liquid Glass over a blue wallpaper">
+  <img src="images/settings.jpg" width="620" alt="Slidenote Settings in Liquid Glass over a blue wallpaper">
 </p>
 
 <br>
@@ -100,7 +100,7 @@
 <h3 align="center">Install</h3>
 
 <p align="center">
-  Open <b>Sparrow-Perch.dmg</b> and drag the app to <b>Applications</b>.<br>
+  Open <b>Slidenote.dmg</b> and drag the app to <b>Applications</b>.<br>
   The first time, macOS asks. Go to <b>System Settings ▸ Privacy & Security</b> and click <b>Open Anyway</b>.
 </p>
 
@@ -111,7 +111,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Abdijnoor/Sparrow-Perch/releases/latest/download/Sparrow-Perch.dmg">
+  <a href="https://github.com/Abdijnoor/Slidenote/releases/latest/download/Slidenote.dmg">
     <img src="images/download-button.svg" width="300" alt="Download for Mac">
   </a>
 </p>

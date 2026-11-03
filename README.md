@@ -27,14 +27,6 @@
 
 <br>
 
-<p align="center">
-  <a href="images/notes-preview.mp4">
-    <img src="images/notes-preview.gif" width="720" alt="Notes sliding out from the edge of the screen">
-  </a>
-</p>
-
-<br>
-
 <h2 align="center">Out of sight. One push away.</h2>
 
 <p align="center">
@@ -42,7 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="images/notes-on-blue.jpg" width="820" alt="Four colourful notes at the left edge of the screen">
+  <a href="images/notes-preview.mp4">
+    <img src="images/notes-preview.gif" width="720" alt="Notes sliding out from the edge of the screen">
+  </a>
 </p>
 
 <br>

@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="images/note-colors.png" width="420" alt="A yellow note with the seven note colours">
+  <img src="images/note-colors.png" width="360" alt="The yellow Welcome to Slidenote note">
 </p>
 
 <br>

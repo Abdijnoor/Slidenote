@@ -78,7 +78,7 @@
 
 <br>
 
-<h2 align="center">Left out, on purpose.</h2>
+<h2 align="center">What was left out on purpose</h2>
 
 <p align="center">
   A place for notes doesn't need to do everything.

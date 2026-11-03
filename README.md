@@ -78,11 +78,19 @@
 
 <br>
 
-<h2 align="center">Yours alone.</h2>
+<h2 align="center">Left out, on purpose.</h2>
 
 <p align="center">
-  Your notes stay on your Mac.<br>
-  No account. No cloud. No tracking.
+  A place for notes doesn't need to do everything.
+</p>
+
+<p align="center">
+  ⏰ &nbsp;No timers or reminders. Nothing nags you.<br>
+  🔔 &nbsp;No notifications. It waits until you reach for it.<br>
+  📅 &nbsp;No calendar inside. Dates go to the one you already use.<br>
+  🤖 &nbsp;No AI. Your words stay your own.<br>
+  🔥 &nbsp;No streaks, badges or goals. Write when you feel like it.<br>
+  ☁️ &nbsp;No cloud, no account, no tracking. Your notes stay on your Mac.
 </p>
 
 <br>

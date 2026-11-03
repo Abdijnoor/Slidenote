@@ -90,6 +90,8 @@
   📅 &nbsp;No calendar inside. Dates go to the one you already use.<br>
   🤖 &nbsp;No AI. Your words stay your own.<br>
   🔥 &nbsp;No streaks, badges or goals. Write when you feel like it.<br>
+  🗂️ &nbsp;No folders to manage. Every note is right there.<br>
+  💳 &nbsp;No subscriptions. Nothing to renew.<br>
   ☁️ &nbsp;No cloud, no account, no tracking. Your notes stay on your Mac.
 </p>
 

@@ -65,6 +65,19 @@
 
 <br>
 
+<h2 align="center">Liquid Glass, all the way through.</h2>
+
+<p align="center">
+  Built in the new design of macOS.<br>
+  Your wallpaper glows through every panel, in light and dark.
+</p>
+
+<p align="center">
+  <img src="images/settings.jpg" width="620" alt="Sparrow Perch Settings in Liquid Glass over a blue wallpaper">
+</p>
+
+<br>
+
 <h2 align="center">Yours alone.</h2>
 
 <p align="center">

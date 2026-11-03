@@ -22,6 +22,12 @@
 <br>
 
 <p align="center">
+  <img src="images/mockup.png" width="820" alt="Sparrow Perch open at the left edge of a MacBook Pro screen">
+</p>
+
+<br>
+
+<p align="center">
   <a href="images/notes-preview.mp4">
     <img src="images/notes-preview.gif" width="720" alt="Notes sliding out from the edge of the screen">
   </a>

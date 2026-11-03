@@ -110,6 +110,10 @@
   <b>⌃⌥S</b> Show your notes &nbsp;·&nbsp; <b>⌃⌥N</b> New note, from any app
 </p>
 
+<p align="center">
+  Feedback, ideas or a bug? &nbsp;<a href="mailto:abdijnoor@gmail.com?subject=Slidenote%20feedback">abdijnoor@gmail.com</a>
+</p>
+
 <br>
 
 <p align="center">

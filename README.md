@@ -44,7 +44,7 @@
 <h2 align="center">Just start typing.</h2>
 
 <p align="center">
-  Lists, checklists and pictures. Seven colours.
+  Click a note and write. Lists, checklists and pictures.
 </p>
 
 <p align="center">

@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="images/notes-preview.mp4">
-    <img src="images/notes-preview.gif" width="720" alt="Notes sliding out from the edge of the screen">
+    <img src="images/notes-preview.gif" width="360" alt="Notes sliding out from the edge of the screen">
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="images/settings.jpg" width="620" alt="Slidenote Settings in Liquid Glass over a blue wallpaper">
+  <img src="images/settings.jpg" width="400" alt="Slidenote Settings in Liquid Glass over a blue wallpaper">
 </p>
 
 <br>

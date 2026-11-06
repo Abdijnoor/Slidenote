@@ -7,7 +7,7 @@
 <h3 align="center">Notes that wait at the edge.</h3>
 
 <p align="center">
-  Slidenote is designed to solve one problem. Set it, forget it, and it's there when you need it.
+  Slidenote helps you keep notes close without cluttering your screen.
 </p>
 
 <p align="center">

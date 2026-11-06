@@ -4,7 +4,7 @@
 
 <h1 align="center">Slidenote</h1>
 
-<h3 align="center">Notes that wait at the edge.</h3>
+<h3 align="center">Slide out. Jot it down. Slide away.</h3>
 
 <p align="center">
   Slidenote helps you keep notes close without cluttering your screen.

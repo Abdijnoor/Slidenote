@@ -97,6 +97,7 @@
   🤖 &nbsp;No AI. Your words stay your own.<br>
   🔥 &nbsp;No streaks, badges or goals. Write when you feel like it.<br>
   🗂️ &nbsp;No folders to manage. Every note is right there.<br>
+  🖼️ &nbsp;No notes stuck to your desktop. They wait at the edge, out of sight.<br>
   💳 &nbsp;No subscriptions. Nothing to renew.<br>
   ☁️ &nbsp;No cloud, no account, no tracking. Your notes stay on your Mac.
 </p>

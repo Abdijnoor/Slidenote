@@ -44,7 +44,8 @@
 <h2 align="center">Just start typing.</h2>
 
 <p align="center">
-  Click a note and write. Lists, checklists and pictures.
+  Click a note and write. Lists, checklists and pictures.<br>
+  Paste a link and it becomes the page's name.
 </p>
 
 <p align="center">
@@ -96,6 +97,10 @@
   💳 &nbsp;No subscriptions. Nothing to renew.<br>
   ☁️ &nbsp;No cloud, no account, no tracking. Your notes stay on your Mac.
 </p>
+
+<p align="center"><sub>
+  The one time Slidenote goes online: when you paste a link, it asks that page for its title.
+</sub></p>
 
 <br>
 

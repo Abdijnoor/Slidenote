@@ -7,6 +7,12 @@
 <h3 align="center">Notes that wait at the edge.</h3>
 
 <p align="center">
+  Slidenote is designed to solve one problem: the note you need is never where you are.<br>
+  Notes apps hide it behind a window you have to find. Sticky notes cover the work you're doing.<br>
+  Slidenote keeps your notes just off the edge of the screen, out of sight until you reach for them.
+</p>
+
+<p align="center">
   Push the pointer to the side of your screen.<br>
   Your notes slide out. Move away, and they're gone.
 </p>

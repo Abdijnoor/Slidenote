@@ -7,7 +7,8 @@
 <h3 align="center">Slide out. Jot it down. Slide away.</h3>
 
 <p align="center">
-  Slidenote helps you keep notes close without cluttering your screen.
+  Type anything, as you would on a scrap of paper at the edge of your desk.<br>
+  Not a planner. Not a project dashboard. Just a place to put things down.
 </p>
 
 <p align="center">

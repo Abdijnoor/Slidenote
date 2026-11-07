@@ -48,7 +48,8 @@
 <h2 align="center">Just start typing.</h2>
 
 <p align="center">
-  Click a note and write. Lists, checklists and pictures.
+  Click a note and write. Lists, checklists and pictures.<br>
+  Paste a link and it becomes the page's name.
 </p>
 
 <p align="center">
@@ -91,8 +92,7 @@
 </p>
 
 <p align="center">
-  ⏰ &nbsp;No timers or reminders. Nothing nags you.<br>
-  🔔 &nbsp;No notifications. It waits until you reach for it.<br>
+  🔔 &nbsp;Nothing nags you. Reminders only when you ask for one.<br>
   📅 &nbsp;No calendar inside. Dates go to the one you already use.<br>
   🤖 &nbsp;No AI. Your words stay your own.<br>
   🔥 &nbsp;No streaks, badges or goals. Write when you feel like it.<br>
@@ -101,6 +101,10 @@
   💳 &nbsp;No subscriptions. Nothing to renew.<br>
   ☁️ &nbsp;No cloud, no account, no tracking. Your notes stay on your Mac.
 </p>
+
+<p align="center"><sub>
+  The one time Slidenote goes online: when you paste a link, it asks that page for its title.
+</sub></p>
 
 <br>
 

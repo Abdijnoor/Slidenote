@@ -7,7 +7,7 @@
 <h3 align="center">Slide out. Jot it down. Slide away.</h3>
 
 <p align="center">
-  Type anything, as you would on a scrap of paper at the edge of your desk.<br>
+  Type anything, just like you would on a scrap of paper at the edge of your desk.<br>
   Not a planner. Not a project dashboard. Just a place to put things down.
 </p>
 

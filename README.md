@@ -91,6 +91,21 @@
 
 <br>
 
+<h2 align="center">What you can do</h2>
+
+<p align="center">
+  1. &nbsp;Take notes, with bold, bullets and checklists<br>
+  2. &nbsp;Add a date to anything, and get a reminder<br>
+  3. &nbsp;Drop in pictures<br>
+  4. &nbsp;Paste links, and see the page's name<br>
+  5. &nbsp;Find any note, just start typing<br>
+  6. &nbsp;Pick a colour, pin the ones that matter<br>
+  7. &nbsp;Start a new note from any app with <b>⌃⌥N</b><br>
+  8. &nbsp;Get deleted notes back, for 30 days
+</p>
+
+<br>
+
 <h2 align="center">What was left out on purpose</h2>
 
 <p align="center">
@@ -98,7 +113,7 @@
 </p>
 
 <p align="center">
-  🔔 &nbsp;Nothing nags you. Reminders only when you ask for one.<br>
+  🔔 &nbsp;Nothing nags you. Reminders only on the dates you add.<br>
   📅 &nbsp;No calendar inside. Dates go to the one you already use.<br>
   🤖 &nbsp;No AI. Your words stay your own.<br>
   🔥 &nbsp;No streaks, badges or goals. Write when you feel like it.<br>

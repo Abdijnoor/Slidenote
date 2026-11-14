@@ -59,14 +59,19 @@
 
 <br>
 
-<h2 align="center">Dates that do something.</h2>
+<h2 align="center">Remind me, right on the task.</h2>
 
 <p align="center">
-  Write "Friday 7pm". Click it. It's in your calendar.
+  Press the clock on any item, pick a time, and it's set.<br>
+  Or just write "Friday 7pm". Click it. It's in your calendar.
 </p>
 
 <p align="center">
-  <img src="images/date-menu.png" width="460" alt="A date in a note, with Add to Calendar">
+  <img src="images/date-task.png" width="330" alt="A checklist item with its date and clock underneath">
+</p>
+
+<p align="center">
+  <img src="images/date-picker.png" width="402" alt="The date picker: quick picks, a calendar, a list of times and Remind me">
 </p>
 
 <br>
